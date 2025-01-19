@@ -10,6 +10,8 @@ Today, the Disk Archiver resides at the [Berlin Creators makerspace](https://ber
 
 Read the [Tom’s Hardware Article](https://www.tomshardware.com/raspberry-pi/this-raspberry-pi-automatically-archives-a-stack-of-amiga-floppy-disks)
 
+Watch the [YouTube](https://youtu.be/UrLrj-g-TfE) video.
+
 The Disk Archiver was nicknamed the Copy Bot Pro and was unvailed at VCFB 2024, the below image was taken at the [Vintage Computing Festival Berlin (VCFB) 2024](https://vcfb.de/2024/)
 
 ![DCP2](https://github.com/user-attachments/assets/e7fc9fa6-c1c4-49e0-8778-c863b5fd6bae)
